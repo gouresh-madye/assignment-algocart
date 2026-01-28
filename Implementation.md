@@ -1,4 +1,4 @@
-# AI Agent Guidelines: TCP Chat Server Assignment
+TCP Chat Server Assignment
 
 ## Overview
 
