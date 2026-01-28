@@ -720,18 +720,6 @@ touch README.md
 
 ---
 
-## Notes for AI Agent
-
-- **Prioritize correctness over optimization** in first iteration
-- **Test frequently** during implementation
-- **Handle errors gracefully** - don't crash the server
-- **Keep code simple and readable** - avoid over-engineering
-- **Document as you go** - easier than retrospective documentation
-- **Test with real terminals** before recording
-- **Time-box** each phase to stay on schedule
-
----
-
 **End of Guidelines**
 
 Good luck with the implementation! 🚀
