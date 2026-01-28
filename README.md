@@ -94,3 +94,7 @@ The server uses a thread-per-client model.
 - **Main Thread**: Listens for incoming TCP connections on the specified port.
 - **Client Threads**: A new thread is spawned for each connected client to handle the `recv` loop.
 - **Synchronization**: A `threading.Lock` is used to ensure thread-safe access to the shared `clients` dictionary.
+
+## Demo Video
+
+[Watch the demo video](https://drive.google.com/file/d/1KJX_RAUt9IlJeOPYBrfLnP56UYhl8Vc2/view?usp=sharing)
